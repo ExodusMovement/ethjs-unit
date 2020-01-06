@@ -1,6 +1,6 @@
 {
-  "name": "ethjs-unit",
-  "version": "0.1.6",
+  "name": "@exodus/ethjs-unit",
+  "version": "0.1.6-exodus0",
   "description": "A simple module for handling Ethereum units (e.g. 'ether', 'wei', etc...)",
   "main": "lib/index.js",
   "files": [
